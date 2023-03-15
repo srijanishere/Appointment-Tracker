@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>184069239200-39dl1j4nnfi0avd4la5hqo9umuk00vsc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.184069239200-39dl1j4nnfi0avd4la5hqo9umuk00vsc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvSNpAkFh0dlbblKZCDnMzffwwrIR_iPA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>184069239200</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.srijanbandyopadhay.appointmentTracker</string>
+	<key>PROJECT_ID</key>
+	<string>appointment-tracker-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>appointment-tracker-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:184069239200:ios:526c04aa0650403a5074c5</string>
+</dict>
+</plist>

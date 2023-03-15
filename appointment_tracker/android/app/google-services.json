@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184069239200",
+    "project_id": "appointment-tracker-app",
+    "storage_bucket": "appointment-tracker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184069239200:android:8717c689c082d6025074c5",
+        "android_client_info": {
+          "package_name": "com.srijanbandyopadhay.appointment_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184069239200-36ft2fh4q7ifg4rocmcrlbb779avlhfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOOvUAYxDcgDlMNhQEhIAiOr9b-KCoB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184069239200-36ft2fh4q7ifg4rocmcrlbb779avlhfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
